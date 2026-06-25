@@ -1,6 +1,7 @@
-@media (max-width: 800px) and (min-width: 0px) {
-
     @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+    
+    @media (max-width: 800px) and (min-width: 0px) {
+
 
 
     html {
